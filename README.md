@@ -9,11 +9,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/22whnlj2mvac5tupjozcuxxmq)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22whnlj2mvac5tupjozcuxxmq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="" />][website]
+<!-- [<img align="left" alt="" width="22px" src="" />][website] -->
 [<img align="left" alt="Khanh Tran | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Khanh Tran | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Khanh Tran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,16 +40,11 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]:
 [facebook]: https://www.facebook.com/khanh.traan.47/
 [youtube]: https://www.youtube.com/channel/UCe25bLKOZuciKY5pTuKHHxw
 [instagram]: https://www.instagram.com/khanhtraan47/
 [linkedin]: https://www.linkedin.com/in/duc-khanh-tran/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
