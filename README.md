@@ -7,10 +7,6 @@
 - 🌱 I like to explore new technologies and quick hacks.
 - ✍ In my free time, I often study graphic design and photography as my hobby.
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22whnlj2mvac5tupjozcuxxmq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 ### Connect with me:
 
 <!-- [<img align="left" alt="" width="22px" src="" />][website] -->
@@ -39,6 +35,10 @@
 
 <br />
 <br />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22whnlj2mvac5tupjozcuxxmq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 [facebook]: https://www.facebook.com/khanh.traan.47/
 [youtube]: https://www.youtube.com/channel/UCe25bLKOZuciKY5pTuKHHxw
